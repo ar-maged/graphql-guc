@@ -1764,8 +1764,8 @@ express@^4.16.2:
     vary "~1.1.2"
 
 extend@~3.0.0, extend@~3.0.1:
-  version "3.0.1"
-  resolved "https://registry.npmjs.org/extend/-/extend-3.0.1.tgz#a755ea7bc1adfcc5a31ce7e762dbaadc5e636444"
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/extend/-/extend-3.0.2.tgz#f8b1136b4071fbd8eb140aff858b1019ec2915fa"
 
 external-editor@^2.0.4:
   version "2.1.0"
@@ -3325,8 +3325,8 @@ lodash.sortby@^4.7.0:
   resolved "https://registry.npmjs.org/lodash.sortby/-/lodash.sortby-4.7.0.tgz#edd14c824e2cc9c1e0b0a1b42bb5210516a42438"
 
 lodash@^4.13.1, lodash@^4.14.0, lodash@^4.17.4, lodash@^4.3.0:
-  version "4.17.4"
-  resolved "https://registry.npmjs.org/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
+  version "4.17.15"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
 
 log-symbols@^1.0.2:
   version "1.0.2"
